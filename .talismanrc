@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: .env
+  checksum: 20eb2f4a98974bc19f6b46e7f5a0621b0bceabb6e68d91b13f41edfc9888f424
+  ignore_detectors: []
